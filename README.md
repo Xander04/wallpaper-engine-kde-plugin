@@ -43,7 +43,7 @@ Fedora:
 # Please add "RPM Fusion" repo first
 sudo dnf install vulkan-headers plasma-workspace-devel kf5-plasma-devel gstreamer1-libav \
 lz4-devel mpv-libs-devel python3-websockets qt5-qtbase-private-devel \
-qt5-qtx11extras-devel qt5-qtwebchannel-devel qt5-qtwebsockets-devel cmake
+qt5-qtx11extras-devel qt5-qtwebchannel-devel qt5-qtwebsockets-devel cmake ninja-build
 ```
 
 Arch:  
